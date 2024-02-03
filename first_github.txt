@@ -1,2 +1,3 @@
 This is my first test.
 Add another useful line.
+A third line just HAD to be added.
